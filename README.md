@@ -5,7 +5,7 @@
   <img src="https://files.catbox.moe/gegwez.jpg" width="100%"/>
 </p>
 
-### **`❕️ Important information 🟥`**
+### **`❕️ Important information 🍎`**
 
 **`Kira-X`** is a Node.js-based WhatsApp bot that uses the **@whiskeysockets/Baileys** library.
 This bot offers a variety of features to enhance your WhatsApp experience.
@@ -24,7 +24,7 @@ Sub-Bots (JadiBot)
 Additional Extensions
 
 <details>
- <summary><b>FUNCTIONS 🟥</b></summary>
+ <summary><b>FUNCTIONS 🍎</b></summary>
 
 > Bot in development if it presents any failure report to the creator to give an optimal solution.
 
@@ -65,13 +65,10 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/aethonxei/Jas-X && cd Jas-X
+git clone https://github.com/aethonxei/Kira-X && cd Kira-X
 ```
 ```bash
 yarn install
-```
-```bash
-npm install
 ```
 ```bash
 npm start
