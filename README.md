@@ -2,7 +2,7 @@
 <p align="center"><i>WhatsApp Bot Made By Aethon Xei</i></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aethonxei/Jas-X/refs/heads/main/menu/IMG_20251023_153609.jpg" width="100%"/>
+  <img src="https://files.catbox.moe/gegwez.jpg" width="100%"/>
 </p>
 
 ### **`❕️ Important information 🎀`**
