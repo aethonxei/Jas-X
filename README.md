@@ -1,13 +1,13 @@
-<h1 align="center">🎀 Jas-X 💗</h1>  
+<h1 align="center">🪽 Kira-X 🪽</h1>  
 <p align="center"><i>WhatsApp Bot Made By Aethon Xei</i></p>
 
 <p align="center">
   <img src="https://files.catbox.moe/gegwez.jpg" width="100%"/>
 </p>
 
-### **`❕️ Important information 🎀`**
+### **`❕️ Important information 🟥`**
 
-**`Jas-X`** is a Node.js-based WhatsApp bot that uses the **@whiskeysockets/Baileys** library.
+**`Kira-X`** is a Node.js-based WhatsApp bot that uses the **@whiskeysockets/Baileys** library.
 This bot offers a variety of features to enhance your WhatsApp experience.
 
 🚫 This project is NOT affiliated with WhatsApp or WhatsApp LLC.
@@ -24,7 +24,7 @@ Sub-Bots (JadiBot)
 Additional Extensions
 
 <details>
- <summary><b>FUNCTIONS 🎀</b></summary>
+ <summary><b>FUNCTIONS 🟥</b></summary>
 
 > Bot in development if it presents any failure report to the creator to give an optimal solution.
 
